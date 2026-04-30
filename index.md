@@ -19,3 +19,5 @@ My GitHub page is http://github.com/RowanYarnell-CSUF.
 * [Lab 9](https://csufullerton.instructure.com/courses/3555495/assignments/39391888)
 
     Lab 9 is only here because it was the best grade ive gotten on a lab and as an honorable mention to my lab partner. I wasnt able to push my work before being spontaniously dragged away to Ventura for the weekend. It was also a syntaxically (made up word) difficult project for me. 
+
+![The gradient image from Lab 12](images/NoImageEN.png)
