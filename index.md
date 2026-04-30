@@ -4,7 +4,7 @@ This is my home page! My name is Rowan, and I am a student at [Cal State Fullert
 
 ## Computer Science Projects
 
-My GitHub page is (https://rowanyarnell-csuf.github.io/)[https://rowanyarnell-csuf.github.io/].
+My GitHub page is [https://rowanyarnell-csuf.github.io/](https://rowanyarnell-csuf.github.io/).
 
 ### CPSC 120
 
